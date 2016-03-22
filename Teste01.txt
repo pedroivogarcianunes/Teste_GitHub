@@ -1,7 +1,5 @@
 Este arquivo
 é um teste
-para aula 04
+para a aula 05
 
-fiz essa inclusão
-
-o branch 2 fez essa inclusão
+mudei tudo para dar conflito
